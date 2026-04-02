@@ -1,0 +1,30 @@
+{
+  /* --- Configurações do Editor --- */
+  "editor.fontSize": 16,
+  "editor.wordWrap": "on",
+  "editor.suggestOnTriggerCharacters": false,
+  "editor.inlineSuggest.enabled": false,
+  "editor.inlineSuggest.edits.renderSideBySide": "never",
+  "editor.quickSuggestions": {
+    "comments": "off",
+    "strings": "off",
+    "other": "on"
+  },
+
+  /* --- Configurações de Arquivos e Interface --- */
+  "files.autoSave": "afterDelay",
+  "workbench.colorTheme": "Abyss",
+  "workbench.iconTheme": "material-icon-theme",
+  "internalConsoleOptions": "neverOpen",
+  "github.copilot.nextEditSuggestions.enabled": false,
+
+  /* --- Configurações do Code Runner (Terminal Limpo) --- */
+  "code-runner.executorMap": {
+    "python": "cls ; python -u"
+  },
+  "code-runner.runInTerminal": true,
+  "code-runner.clearPreviousOutput": true,
+  "code-runner.showExecutionMessage": false,
+  "code-runner.ignoreSelection": true,
+  "terminal.integrated.shellIntegration.enabled": false
+}
