@@ -10,6 +10,7 @@ Typecasting ; coercion, convertion, conversão, conversão de tipos.
 É a mesma balela pra dizer a mesma coisa. Sinônimos! 
 
 Vamos a prática: 
+
 """
 
 print("Se tentarmos somar A e B, e colocar o sinal de +, haverá uma concatenação.");
