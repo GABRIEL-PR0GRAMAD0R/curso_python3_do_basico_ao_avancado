@@ -1,5 +1,0 @@
-numero1 = 0;
-numero2 = 0; 
-
-print("Bem vindo");
-print("Selecione uma opção:")
