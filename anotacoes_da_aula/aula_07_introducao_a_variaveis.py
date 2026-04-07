@@ -20,4 +20,7 @@ print("Nome de usuário: ", nome_de_usuario);
 print("Idade de usuário: ", idade_do_usuario);
 
 print("O", nome_de_usuario, "é maior de idade:", maior_de_idade);
+print("Agora, vamos fazer o exercício proposto.");
+print("Vou jogar todos os exercícios na pasta exercícios");
+
 print("");
